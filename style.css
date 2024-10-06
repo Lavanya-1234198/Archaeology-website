@@ -1,0 +1,23 @@
+                 h1.head{
+				color:black;
+				font-family:"algerian";
+				font-size:70px;
+				text-align:center;	
+			}
+		 tr.center{
+				margin-top:0;
+				color:white;
+				background-color:sandybrown;
+				font-family:"bold";
+				font-size:20px;
+				width:100px;
+				height:40px;
+			}
+		a{
+			color:white;
+			text-decoration: none;}
+		a:hover {
+            color: grey; 
+        }
+
+		
